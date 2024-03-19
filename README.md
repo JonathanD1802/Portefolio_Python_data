@@ -2,7 +2,7 @@
 
 Hello everyone, welcome to my new beginner project. 
 This project have been made during a codecademy course. 
-Consequently, as it's my first Data science project, it need a review. Therefore, don't have any hesitations to provide me with feedbacks ! 
+Consequently, as it's my first Data science project, it needs a review. Therefore, don't have any hesitation to provide me with feedbacks ! 
 
 ## What's is the aim of this project ? 
 For this project I picked up the cvs file you can find within the folder. 
